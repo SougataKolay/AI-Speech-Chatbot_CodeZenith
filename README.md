@@ -8,4 +8,4 @@ This is the backend repository for an AI-powered chatbot that provides mental he
 - 🤖 **AI Response Generation**: Uses a language model to generate structured, engaging replies.  
 - 🔊 **Text-to-Speech (TTS)**: Converts AI responses into human-like speech.  
 - ⚡ **Fast & Optimized**: Low-latency processing for real-time conversations.  
-- 🔄 **Modular & Extensible**: Easily replaceable STT, AI, and TTS models.  
+- 🔄 **Modular & Extensible**: Easily replaceable STT, AI, and TTS models.
