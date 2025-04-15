@@ -1,0 +1,6 @@
+{
+    "model_name": "llama3.2:3b",
+    "temperature": 0.5,
+    "top_p": 0.9,
+    "max_tokens": 256
+  }  
